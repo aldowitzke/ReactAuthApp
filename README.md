@@ -1,5 +1,5 @@
-# React/Redux/Router Starter Project
+A simple React app to consume data from a Rails Authentication API, where you can create, login and logout users.
 
-> Provided for the students of the [Bottega Code School](https://bottega.tech/)
+The main goal of this app is to practice and study how React requests work with a Rails API for user authentication.
 
-*Fork from [es6-webpack2-starter](https://github.com/micooz/es6-webpack2-starter)*
+To check the Rails API, [click here](https://github.com/aldowitzke/authentication_app)
